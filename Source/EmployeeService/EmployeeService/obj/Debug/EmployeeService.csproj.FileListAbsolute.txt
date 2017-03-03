@@ -1,0 +1,4 @@
+c:\users\lakshmi\documents\visual studio 2013\Projects\EmployeeService\EmployeeService\bin\Debug\EmployeeService.dll
+c:\users\lakshmi\documents\visual studio 2013\Projects\EmployeeService\EmployeeService\bin\Debug\EmployeeService.pdb
+c:\users\lakshmi\documents\visual studio 2013\Projects\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
+c:\users\lakshmi\documents\visual studio 2013\Projects\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
